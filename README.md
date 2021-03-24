@@ -1,0 +1,2 @@
+# Belton-Reverb-Pedals-
+2 schims and pcb +gerbers for a BH2 and a BH3 belton brick reverbs. note the tone stack before the gain. seems stupid right ? have faith and try it with modulations. the BJT boost after is to give it level. both pcbs and circuits have parts to be included and changed to make overdrive versions. simply add the 2 soft clipping diodes . pick your fave and change the gain pot from 100k to 500k . this is a loud pedal so take the vol pot down to 50k if your speakers are in danger. 
